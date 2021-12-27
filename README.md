@@ -8,7 +8,7 @@
 **17yo**
 
 ## Skills
-- 👨‍💻 JavaScript, C#, Pyhton
+- 👨‍💻 JavaScript, C#, Python
 - ⚙️ Node js, Express js
 - 👁️ HTML, Css, Bootstrap 
 - 💽 MongoDb
