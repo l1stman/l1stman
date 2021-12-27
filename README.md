@@ -7,4 +7,5 @@
 
 **17yo**
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5cqgqne50aicudjnwmvl9m2as)
+> Recently Playing 🎧
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5cqgqne50aicudjnwmvl9m2as&count=1)
