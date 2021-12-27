@@ -7,6 +7,12 @@
 
 **17yo**
 
+## Skills
+- 👨‍💻 JavaScript, C#, Pyhton
+- ⚙️ Node js, Express js
+- 👁️ HTML, Css, Bootstrap 
+- 💽 MongoDb
+
 <h2> Recently Playing 🎧</h2>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5cqgqne50aicudjnwmvl9m2as&count=1)
