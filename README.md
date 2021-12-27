@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 **Marouane (l1stman)** 
 
 **Morocco** 🇲🇦
@@ -20,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/instagram.svg" alt="" height="30" width="40" /></a>
-  <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/discord.svg" alt="" height="30" width="40" /></a>
+<a href="https://twitter.com/l1stman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/l1stman/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/instagram.svg" alt="" height="30" width="40" /></a>
+  <a href="https://discord.com/users/568415372114395136" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/discord.svg" alt="" height="30" width="40" /></a>
 </p>
