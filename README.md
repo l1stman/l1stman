@@ -6,6 +6,8 @@
 
 **17yo**
 
+⭕ All my repos are private !
+
 ## Skills
 - 👨‍💻 JavaScript, C#, Python
 - ⚙️ Node js, Express js
