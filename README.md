@@ -18,7 +18,7 @@ I'm Marouane, and welcome to my corner of GitHub. As a passionate coder and tech
 ## 🤝 Connect with me:
 <p align="center">
 <a href="https://discord.com/users/568415372114395136" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="l1stman" height="50" width="50" /></a> 
-<a href="www.linkedin.com/in/l1stman" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="l1stman" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/l1stman" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="l1stman" height="50" width="50" /></a>
 </p>
 <div align="center">
 
